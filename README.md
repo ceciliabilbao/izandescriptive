@@ -36,7 +36,7 @@ This class will have an attibute called *data*
 ### Dependencies
 
 - pandas
-- turtle
+- [turtle] (https://docs.python.org/3/library/turtle.html)
 - ptitprince
 - seaborn
 - seaborn
