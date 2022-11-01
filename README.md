@@ -47,6 +47,10 @@ This class will have an attibute called *data*
 
 ``` pip install izandescriptive ```
 
+### Import
+
+``` from izandescriptive import class_descriptives```
+
 ### Intance attributes and init the method
 
 ``` c1=desc_analysis('example.csv') ```
