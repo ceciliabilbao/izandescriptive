@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/64251090/199358470-4c618bee-ede0-468d-89dc-3e027ba370de.png)
-
+![logo_azul](https://user-images.githubusercontent.com/64251090/199361725-4915b720-6e80-4e23-9342-e0ce48b58c7a.jpg)
 -----------------
 
 # Izandescriptive: powerful PyPi data analysis package 
