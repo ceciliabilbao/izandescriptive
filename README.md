@@ -1,4 +1,10 @@
-# Izandescriptive: powerful Python data analysis package 
+![image](https://user-images.githubusercontent.com/64251090/199348235-602bfe13-dd97-49a7-bb4b-72d265e7ba18.png)
+
+-----------------
+
+# Izandescriptive: powerful PyPi data analysis package 
+[![PyPI Latest Release](https://img.shields.io/pypi/v/izandescriptive.svg)](https://pypi.org/project/izandescriptive/)
+[![License](https://img.shields.io/pypi/l/izandescriptive.svg)](https://github.com/ceciliabilbao/izandescriptive/blob/main/LICENSE)
 
 ## What is it?
 
@@ -36,7 +42,9 @@ This class will have an attibute called *data*
 - seaborn
 - matplotlib
 
-### PyPi
+## Using the library
+
+### Installation
 
 ``` pip install izandescriptive ```
 
