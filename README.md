@@ -1,5 +1,4 @@
-# Izandescriptive: powerful Python data analysis package 
------------------
+## Izandescriptive: powerful Python data analysis package 
 
 ## What is it?
 
@@ -28,7 +27,7 @@ This class will have an attibute called *data*
 
 - graphic : The class desc_analysis has one method *graphic*. This method will take an argument wich is *data* defined in the previous attribute.
 
-## Dependencies
+### Dependencies
 
 - pandas
 - turtle
