@@ -3,13 +3,14 @@
 
 ## What is it?
 
-This library has been created in order to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called graphic().
+**Izandescriptive** is a PyPi library that provides fast and easy to undersand data
+analysis. It aims to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called **graphic()**.
 
 ## Main Features
 
 Here are just a few of the things that *izandescriptive* does well:
 
-- Easy handling of [**reading csv**][reading csv].
+- Easy handling of reading csv.
 - Selects numerical variables from the dataframe.
 - Creates histograms, raincloud graphs and a heatmap graph.
 
@@ -26,6 +27,15 @@ This class will have an attibute called *data*
 ### Methods
 
 - graphic : The class desc_analysis has one method *graphic*. This method will take an argument wich is *data* defined in the previous attribute.
+
+## Dependencies
+
+- pandas
+- turtle
+- ptitprince
+- seaborn
+- seaborn
+- matplotlib
 
 ### PyPi
 
@@ -53,3 +63,6 @@ This would be the result of the desc_analysis class.
 
 ![image](https://user-images.githubusercontent.com/64251072/197812131-81e48d49-ed32-4dc5-8328-e4980d4448fb.png)
 
+## Where to get the library
+The library is currently hosted on PyPi at:
+https://pypi.org/project/izandescriptive/
