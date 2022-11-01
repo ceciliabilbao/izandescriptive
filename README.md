@@ -35,13 +35,11 @@ This class will have an attibute called *data*
 
 ### Dependencies
 
-- pandas
-- [NumPy - Adds support for large, multi-dimensional arrays, matrices and high-level mathematical functions to operate on these arrays](https://www.numpy.org)
-- [turtle] (https://docs.python.org/3/library/turtle.html)
-- ptitprince
-- seaborn
-- seaborn
-- matplotlib
+- [pandas](https://pandas.pydata.org/)
+- [turtle](https://docs.python.org/3/library/turtle.html)
+- [ptitprince](https://github.com/pog87/PtitPrince)
+- [seaborn](https://seaborn.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
 
 ## Using the library
 
