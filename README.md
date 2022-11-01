@@ -23,12 +23,15 @@ This class will have an attibute called *data*
 - Selects numerical variables from de dataframe.
 - Creates histograms, raincloud graphs and a heatmap graph.
 
+### PyPi
+
+``` pip install izandescriptive ```
 
 ### Intance attributes and init the method
 
---> c1=desc_analysis('example.csv')
+´´´ c1=desc_analysis('example.csv')
 
---> c1.graphic() 
+c1.graphic() ´´´
 
 ### Example
 This would be the result of the desc_analysis class.
