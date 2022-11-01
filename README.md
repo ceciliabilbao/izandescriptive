@@ -1,7 +1,10 @@
-Izandescriptive package
-====
+# Izandescriptive: powerful Python data analysis package 
+
+-----------------
 
 This library has been created in order to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called graphic().
+
+-----------------
 
 ## Class desc_analysis():
 
