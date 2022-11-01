@@ -1,9 +1,9 @@
-Descriptive Analysis package
+Izandescriptive package
 ====
 
 This library has been created in order to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called graphic().
 
-## desc_analysis class:
+## Class desc_analysis():
 
 You can define the following class name desc_analysis
 
@@ -19,8 +19,8 @@ This class will have an attibute called *data*
 
 ### Application
 
-- Read csv.
-- Selects numerical variables from de dataframe.
+- Reads csv.
+- Selects numerical variables from the dataframe.
 - Creates histograms, raincloud graphs and a heatmap graph.
 
 ### PyPi
@@ -29,9 +29,9 @@ This class will have an attibute called *data*
 
 ### Intance attributes and init the method
 
-´´´ c1=desc_analysis('example.csv')
+´´´ c1=desc_analysis('example.csv') ```
 
-c1.graphic() ´´´
+´´´ c1.graphic() ´´´
 
 ### Example
 This would be the result of the desc_analysis class.
