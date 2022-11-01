@@ -1,4 +1,4 @@
-## Izandescriptive: powerful Python data analysis package 
+# Izandescriptive: powerful Python data analysis package 
 
 ## What is it?
 
