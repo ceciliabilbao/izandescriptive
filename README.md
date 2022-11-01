@@ -1,9 +1,19 @@
 # Izandescriptive: powerful Python data analysis package 
 -----------------
-This library has been created in order to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called graphic().
------------------
 
-## Class desc_analysis():
+## What is it?
+
+This library has been created in order to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called graphic().
+
+## Main Features
+
+Here are just a few of the things that *izandescriptive* does well:
+
+- Easy handling of [**reading csv**][reading csv].
+- Selects numerical variables from the dataframe.
+- Creates histograms, raincloud graphs and a heatmap graph.
+
+### Class desc_analysis():
 
 You can define the following class name desc_analysis
 
@@ -16,12 +26,6 @@ This class will have an attibute called *data*
 ### Methods
 
 - graphic : The class desc_analysis has one method *graphic*. This method will take an argument wich is *data* defined in the previous attribute.
-
-### Application
-
-- Reads csv.
-- Selects numerical variables from the dataframe.
-- Creates histograms, raincloud graphs and a heatmap graph.
 
 ### PyPi
 
