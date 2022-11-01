@@ -1,9 +1,7 @@
 # Izandescriptive: powerful Python data analysis package 
 
 -----------------
-
 This library has been created in order to speed up the exploratory analysis process. It performs different graphs of the numerical variables in a single function called graphic().
-
 -----------------
 
 ## Class desc_analysis():
@@ -32,11 +30,12 @@ This class will have an attibute called *data*
 
 ### Intance attributes and init the method
 
-´´´ c1=desc_analysis('example.csv') ```
+``` c1=desc_analysis('example.csv') ```
 
-´´´ c1.graphic() ´´´
+``` c1.graphic() ```
 
-### Example
+# Example
+
 This would be the result of the desc_analysis class.
 
 ##### Histograms
