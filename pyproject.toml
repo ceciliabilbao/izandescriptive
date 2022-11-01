@@ -12,7 +12,7 @@ description = "This library generates different graphics of numerical variables 
 readme = "README.md"
 requires-python = ">=3.7"
 install_requires = [
-    'pandas', 'turtle', 'ptitprince', 'seaborn', 'seaborn', 'matplotlib'
+    'pandas', 'turtle', 'ptitprince', 'seaborn','matplotlib'
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
