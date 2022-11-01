@@ -36,6 +36,7 @@ This class will have an attibute called *data*
 ### Dependencies
 
 - pandas
+- [NumPy - Adds support for large, multi-dimensional arrays, matrices and high-level mathematical functions to operate on these arrays](https://www.numpy.org)
 - [turtle] (https://docs.python.org/3/library/turtle.html)
 - ptitprince
 - seaborn
@@ -54,7 +55,7 @@ This class will have an attibute called *data*
 
 ``` c1.graphic() ```
 
-# Example
+## Example
 
 This would be the result of the desc_analysis class.
 
